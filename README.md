@@ -1,9 +1,7 @@
 👋 Olá, eu sou Henrique Neto
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-
 🚀 Explorando diferentes áreas da tecnologia
-
 🐍 Experiência com Python e projetos práticos
 
 ---
